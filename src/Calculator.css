@@ -1,0 +1,86 @@
+.calculator-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculator {
+  padding: 20px;
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.calculator1 {
+  background: #707178;
+  border: 1px solid grey;
+}
+.calculator2 {
+  background: #f9d4f9;
+  border: 1px solid #f7c5f7;
+}
+
+.buttonBox {
+  border: none;
+  border-radius: 15px;
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  font-size: 40px;
+}
+.buttonBox:active {
+  box-shadow: 0px 0px 18px 1px rgba(61, 61, 61, 0.24);
+  transform: translateY(3px);
+  opacity: 0.9;
+}
+
+.buttonBox {
+  border: none;
+  border-radius: 15px;
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  font-size: 40px;
+  color: white;
+}
+
+.buttonBox1 {
+  background: #414348;
+}
+.buttonBox2 {
+  background: #ab99fb;
+}
+
+.inputContainer {
+  display: flex;
+  justify-content: center;
+  margin: 7px;
+}
+.inputBox {
+  font-size: 25px;
+  border: none;
+  border-radius: 15px;
+  width: 260px;
+  height: 80px;
+  margin-bottom: 5px;
+  box-shadow: 0px 1px 20px 0px rgba(61, 61, 61, 0.24);
+}
+.inputBox1 {
+  background: rgb(210, 233, 178);
+  border: 5px solid beige;
+}
+
+.inputBox2 {
+  background: rgb(213 246 254);
+  border: 5px solid white;
+}
+
+.inputBox:focus {
+  outline: none;
+}
+
+.operatorBtn1 {
+  background: #c4c4ca;
+}
+
+.operatorBtn2 {
+  background: #f981d2;
+}
