@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mina-calculator-app/static/css/main.a8cdf2d2.css",
+    "main.js": "/mina-calculator-app/static/js/main.8a7463df.js",
+    "static/js/787.85d4fd9e.chunk.js": "/mina-calculator-app/static/js/787.85d4fd9e.chunk.js",
+    "index.html": "/mina-calculator-app/index.html",
+    "main.a8cdf2d2.css.map": "/mina-calculator-app/static/css/main.a8cdf2d2.css.map",
+    "main.8a7463df.js.map": "/mina-calculator-app/static/js/main.8a7463df.js.map",
+    "787.85d4fd9e.chunk.js.map": "/mina-calculator-app/static/js/787.85d4fd9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8cdf2d2.css",
+    "static/js/main.8a7463df.js"
+  ]
+}
